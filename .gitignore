@@ -1,0 +1,8 @@
+# Ignore Cmake lists
+CMakeLists.txt
+
+# Ignore build folder
+cmake-build-debug/
+
+# Ignore folder created by CLion
+.idea/
