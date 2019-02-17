@@ -6,3 +6,9 @@ cmake-build-debug/
 
 # Ignore folder created by CLion
 .idea/
+
+# Ignore executables
+*.out
+
+# Ignore test files
+*.txt
